@@ -70,6 +70,10 @@
     font-size: 60px;
     margin-bottom: -14px;
 }
+.launching-time #days{
+    margin-right: 60px;
+    
+}
 
 .rocket{
     width: 250px;
@@ -91,4 +95,9 @@
 
     }
     
+}
+
+.name{
+    font-size: 50px;
+    color: #fff;
 }
