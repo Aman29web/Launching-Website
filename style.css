@@ -83,6 +83,17 @@
     animation: rocket 4s linear infinite;
 
 }
+.btn{
+    display: flex;
+
+}
+a{
+    text-decoration: none;
+}
+
+.btn1{
+    margin-right: 50px;
+}
 
 @keyframes rocket{
     0%{
